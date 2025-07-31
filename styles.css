@@ -20,6 +20,7 @@ body{
     border-color: black;
     border-width: 0.1rem;
     border-style: solid;
+    box-shadow: 0.5rem 0.5rem black ;
 }
 .container>img{
     border-radius: 1rem;
